@@ -2,15 +2,16 @@
 # Flutter Bloc News App  📰🚀
 
 ## 📖 Table of Contents
-- [Overview](#overview)
+- [Introduction](#introduction)
 - [Architectural Pattern](#architectural-pattern)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Packages](#packages)
-- [Screenshots](#screenshots)
 
-## 🚀 Overview
-Flutter news application example demonstrates clean architecture principles and state management using the BLoC (Business Logic Component) pattern.
+
+## 🚀 Introduction
+Flutter news application example demonstrates clean architecture principles and state management using the BLoC (Business Logic Component) pattern
 
 ##  🏗 Architectural Pattern
 
@@ -69,6 +70,9 @@ lib/
 └── main.dart
 ```
 
+## 📱 Screenshots
+[Add your app screenshots here]
+
 ## 🚀 Getting Started
 
 ### Installation
@@ -94,15 +98,11 @@ flutter run
 
 ## 🧪 Testing
 - Unit Tests
-- BLoC Tests
 
 ### Running Tests
 ```bash
 flutter test
 ```
-
-## 📱 Screenshots
-[Add your app screenshots here]
 
 ## 📝 License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
