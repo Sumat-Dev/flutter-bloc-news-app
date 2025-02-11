@@ -63,7 +63,7 @@ lib/
 │       │   ├── repositories/
 │       │   └── usecases/
 │       └── presentation/
-│           ├── bloc/
+│           ├── manager(bloc,cubit)/
 │           ├── pages/
 │           └── widgets/
 │
