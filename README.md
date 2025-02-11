@@ -38,10 +38,6 @@ Flutter news application example demonstrates clean architecture principles and 
 ```
 lib/
 │
-├── config/
-│   ├── routes/
-│   └── themes/
-│
 ├── core/
 │   ├── common/
 │   ├── constants/
