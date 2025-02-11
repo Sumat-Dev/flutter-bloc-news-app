@@ -18,7 +18,7 @@ Flutter news application example demonstrates clean architecture principles and 
 ### Clean Architecture Layers
 1. **Presentation Layer**
     - Widgets
-    - BLoC Providers
+    - Providers (Bloc,cubit)
     - UI Components
 
 2. **Domain Layer**
@@ -63,7 +63,7 @@ lib/
 │       │   ├── repositories/
 │       │   └── usecases/
 │       └── presentation/
-│           ├── manager(bloc,cubit)/
+│           ├── bloc,cubit/
 │           ├── pages/
 │           └── widgets/
 │
